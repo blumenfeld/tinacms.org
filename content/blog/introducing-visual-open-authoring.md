@@ -1,5 +1,5 @@
 ---
-title: Introducing Visual Open Authoring
+title: Introducing Visual Open Authoring 2.0
 date: '2020-03-09T07:00:00.000Z'
 author: Scott Gallant
 draft: false
